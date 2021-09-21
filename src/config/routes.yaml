@@ -1,0 +1,11 @@
+view_user:
+  pattern: /users/{id}/{name}view
+  action: \App\Action\ViewUserAction
+
+edit_user:
+  pattern: /users/{id}/{name}view
+  action: \App\Action\EditUserAction
+
+contacts:
+  pattern: /contacts
+  action: \App\Action\ContactsAction
