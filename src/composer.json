@@ -11,5 +11,7 @@
             "email": "a.pilov@propellerads.net"
         }
     ],
-    "require": {}
+    "require": {
+        "php": "^8.0"
+    }
 }
